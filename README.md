@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm Ege</a></h1>
+<h1 align="center"> Hey <img width="30px" src="https://github.com/egedolmaci/egedolmaci/blob/main/assets/hi.gif">, I'm Ege</a></h1>
 
 I'm Ege from Turkey. I am currently working towards my undergraduate degree in computer science. I have tried many domains of computer science including web development, blockchain, cybersecurity but finally found my passion in AI/DL. You can check out my social accounts through the icons below.
 
