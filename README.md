@@ -27,7 +27,7 @@ I'm Ege from Turkey. I am currently working towards my undergraduate degree in c
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egedolmaci&repo=retrieval-based-chatbot" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egedolmaci&repo=uae-chapter-retina-stages-detection" />
 </a>
