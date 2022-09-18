@@ -12,7 +12,7 @@ I'm Ege from Turkey. I am currently working towards my undergraduate degree in c
   <a href="https://github.com/egedolmaci">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://https://leetcode.com/egedolmaci/">
+  <a href="https://leetcode.com/egedolmaci/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leet Code Badge"/>
   </a>
 </div>
