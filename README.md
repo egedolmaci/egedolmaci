@@ -23,9 +23,9 @@ I'm Ege from Turkey. I am currently working towards my undergraduate degree in c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egedolmaci)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
 ## Some of my proudest works
 
-<!---
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egedolmaci&repo=retrieval-based-chatbot" />
 </a>&nbsp&nbsp
