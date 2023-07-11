@@ -21,7 +21,7 @@ I'm Ege from Turkey. I am currently working towards my undergraduate degree in c
 
 [![Ege's GitHub stats](https://github-readme-stats.vercel.app/api?username=egedolmaci&show_icons=true&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egedolmaci)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egedolmaci&hide_progress=true)
 
 <!---
 ## Some of my proudest works
